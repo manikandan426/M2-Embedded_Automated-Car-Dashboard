@@ -9,6 +9,7 @@ This sensor can also be used to sense other gases like iso-butane, propane, LNG 
 The output of the sensor goes LOW as soon as the LPG sensor senses any gas leakage from the storage.
 Easy to use.
 # STATE OF ART/RESEARCH
+![144088408-5831066c-a48d-4419-8517-bab65da67e2d](https://user-images.githubusercontent.com/71758695/144274469-da4e66fc-d063-42f4-9075-030ec5df6277.png)
 ## SWOT ANALYSIS
 ### STRENGTH
 1. Detection and Prevention of any sort of gas leakage.
@@ -48,4 +49,8 @@ photovoltaic.
    Gas sensors are employed in factories and manufacturing facilities to identify gas leaks, and to detect smoke and carbon monoxide in homes and also in vehicles.
 
 # HIGH LEVEL REQUIREMENTS
+  1. Sensor to detects the gas leakage.
+  2. GSM module to send a message to a registered mobile number.
+  3. Buzzer to alert the fire has produced.
 # LOW LEVEL REQUIREMENTS
+  1. LED to display the message.
